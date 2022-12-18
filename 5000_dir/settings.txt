@@ -1,0 +1,8 @@
+stg,Number_Of_Inputs,7
+stg,Number_Of_Hidden_Neurons_List,[8, 12, 5]
+stg,Number_Of_Outputs,3
+stg,Number_Of_Epochs,3
+stg,act_func_0_SGM_1_STP,0
+stg,Learning_Rate,0.1
+stg,Number_Of_Training_Sets,4
+stg,Which_Training_Set,0
